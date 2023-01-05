@@ -198,7 +198,7 @@ ax.plot_surface(X,Y,newZeta)
 plt.rcParams['text.usetex'] = True
 plt.title(r"Plot of $\gamma$ , $N=10$")
 
-plt.savefig("Pdf\gamma.png")
+plt.savefig("gamma.png")
 
 plt.show()
 plt.close()
