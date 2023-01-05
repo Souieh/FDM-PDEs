@@ -32,13 +32,13 @@ This folder contains the source code of finite difference method for solving the
 \right.
 ```
 
-## 
+## Initial data
 
 ```math
 Y=]0,1[^2 \text{ , } T=[1/4,3/4]^2\text{ , } Y_s = Y-T \text{ , } \Sigma=\partial Ys \text{ , } 
 ```
 ```math
-\alpha = 1 ,A 
+\alpha = 1 ,A =
 \begin{bmatrix}
 1 & 0 \\
 1& 1
